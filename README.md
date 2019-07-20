@@ -1,0 +1,1 @@
+# eclipse-workspace-maven-plugin-war-example
